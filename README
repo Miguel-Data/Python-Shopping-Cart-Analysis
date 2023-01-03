@@ -1,0 +1,10 @@
+#Analysing-an-Australian-Shopping-Cart-using-Python
+
+Using Python to clean, and prepare data to set up Data Visualizations to see the:
+-Correlation between different data
+-Five Number Summary
+-Univariate Analysis for Sales, Age, Price per Product, Quantity
+-Grouping most sold products
+-Finding the best months for sales and revenue being generated
+-Understanding the different demographics and preferences
+-Finding the states and cities with the highest numbers of sales
